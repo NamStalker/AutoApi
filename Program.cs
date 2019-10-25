@@ -20,6 +20,8 @@ namespace BulkApiCall
             {
                 for (int i = 0; i < 1000; i++)
                 {
+					// Run in batches and wait for each call to complete 
+					// to avoid bogging down the api
                     if (count >= newProg.Length / 2)
                         break;
                     tList.Add(new Task(() => newProg.RunValues(newProg.GetValue(count))));
