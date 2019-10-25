@@ -1,0 +1,6 @@
+c:\users\lissztm\documents\visual studio 2015\Projects\BulkApiCall\BulkApiCall\bin\Debug\BulkApiCall.exe.config
+c:\users\lissztm\documents\visual studio 2015\Projects\BulkApiCall\BulkApiCall\bin\Debug\BulkApiCall.exe
+c:\users\lissztm\documents\visual studio 2015\Projects\BulkApiCall\BulkApiCall\bin\Debug\BulkApiCall.pdb
+c:\users\lissztm\documents\visual studio 2015\Projects\BulkApiCall\BulkApiCall\obj\Debug\BulkApiCall.csprojResolveAssemblyReference.cache
+c:\users\lissztm\documents\visual studio 2015\Projects\BulkApiCall\BulkApiCall\obj\Debug\BulkApiCall.exe
+c:\users\lissztm\documents\visual studio 2015\Projects\BulkApiCall\BulkApiCall\obj\Debug\BulkApiCall.pdb
